@@ -4,3 +4,9 @@ git add -A
 git commit -m"message"
 
 
+login github
+create repositary
+cvopy path
+adfd remote to locval 
+
+
